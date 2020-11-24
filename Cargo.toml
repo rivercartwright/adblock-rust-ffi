@@ -11,9 +11,7 @@ libc = "0.2"
 
 [lib]
 crate-type = [
-    "cdylib",
-    "staticlib",
-    "rlib",
+    "staticlib"
 ]
 name = "adblock"
 
